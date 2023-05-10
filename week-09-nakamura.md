@@ -1,0 +1,5 @@
+Nakamura’s interpretation of Manovich’s statement highlights the fact that the tools and platforms we use to create and consume content are not neutral entities, but rather a product of the biases of their creators. Instagram is a prime example of this, as its design and features reflect the values and priorities of its designers. The focus on visual content and the inclusion of filters and editing tools are a reflection of the importance placed on aesthetics and self-presentation.
+
+Furthermore, the algorithms used by Instagram to curate and prioritize content are also a product of the designers’ biases. The content that is deemed valuable or engaging is given more prominence, while other content may be buried or hidden. While these biases may seem unfair, they also serve a purpose in keeping harmful or inappropriate content off the platform.
+
+It’s important to recognize and consider these biases when consuming content on social media, as they can shape our perceptions and experiences in ways we may not even realize. By being aware of these underlying biases, we can be more critical and discerning consumers of digital content.
